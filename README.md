@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Версия 1.7.5" src="https://img.shields.io/badge/версия-1.7.5-1f3a5f?style=flat-square">
+  <img alt="Версия 1.7.6" src="https://img.shields.io/badge/версия-1.7.6-1f3a5f?style=flat-square">
   <img alt="Windows 7–11" src="https://img.shields.io/badge/Windows-7%20·%208.1%20·%2010%20·%2011-4a6a93?style=flat-square">
   <img alt="Без интернета" src="https://img.shields.io/badge/работает-без%20интернета-c9933b?style=flat-square">
   <img alt="Данные под паролем" src="https://img.shields.io/badge/данные-под%20паролем-3d7a5a?style=flat-square">
